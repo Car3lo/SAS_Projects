@@ -1,2 +1,4 @@
 # SAS_projects
-**Contains statistical Analysis on SAS**
+Contains 2 projects:
+- Barcode mismatching focused on data cleaning (EDC and TPV)
+- Car Price regression modelling
