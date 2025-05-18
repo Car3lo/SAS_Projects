@@ -1,7 +1,6 @@
 ### EDC Data Extraction Report ###
 # Source: Electronic Data Capture (EDC) System
 # Extraction Date: 2025-03-08
-# User: slcodia
 # File Format: TXT
 # Number of Records: 596
 # --------------------------------------
