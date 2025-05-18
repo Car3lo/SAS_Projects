@@ -1,5 +1,5 @@
 # SAS Projects
-![SAS](https://img.shields.io/badge/SAS-blue)
+![SAS](https://img.shields.io/badge/SAS-blue?style=for-the-badge&logo=sas&logoColor=white)
 
 These projects primarily demonstrate `SAS Proficiency`, `Data Cleaning, Merging, and Manipulation`, `Correlation and Multiple Linear Regression Modelling`
 
